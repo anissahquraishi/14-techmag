@@ -116,6 +116,12 @@ em {
   font-family: "Montserrat", sans-serif;
   font-weight: 800px;
   font-size: 10px;
+  display: inline-block;
+  transition: 0.3s ease;
+}
+
+.button:hover {
+  background: #666;
 }
 
 .post-info {
