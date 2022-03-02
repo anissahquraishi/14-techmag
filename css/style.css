@@ -21,12 +21,12 @@ header {
   padding:  28px 20px 54px 20px;
   font-family: "Montserrat", sans-serif;
   font-weight: 800px;
-  font-size: 16px;
+  font-size: 26px;
 }
 
 header p {
   font-size: 16px;
-  color: #dddbda;
+  color: #aaa;
   font-family: "Open Sans", sans-serif;
   font-weight: 400px;
 }
@@ -39,7 +39,7 @@ main {
   background: #00fca6;
   margin: 20px 20px 0;
   padding: 18px 30px 20px;
-  color: #0f573d;
+  color: #0e6949;
   font-family:'Montserrat', sans-serif;
   line-height: 1.4em;
 }
@@ -47,11 +47,12 @@ main {
 footer {
   background: #000000;
   text-align: center;
-  color: #fcf5f5;
+  color: #FFFFFF;
   border: 2px solid #00fca6;
   margin: 20px 20px 20px 20px;
   padding: 18px 95px; 
-  font-size: 8px;
+  font-size: 10px;
+  font-family: "Open Sans", sans-serif;
 }
 
 div {
@@ -75,8 +76,9 @@ figure {
 }
 
 figcaption {
-  font-family: sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 12px;
+  color: #333;
   padding: 10px 10px 15px 10px;
 }
 
@@ -86,12 +88,12 @@ p {
 
 h1 {
   font-family: "Montserrat", sans-serif;
-  font-size: 24px;
+  font-size: 26px;
 }
 
 h2 {
   font-family: "Montserrat", sans-serif;
-  font-size: 17px;
+  font-size: 16px;
   font-weight: 800px;
 }
 
@@ -102,13 +104,13 @@ em {
 }
 
 .button {
-  color: white;
-  background-color: #444444;
+  color: #DDDDDD;
+  background: #444444;
   text-decoration: none;
   padding: 6px 16px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 800px;
-  font-size: 12px;
+  font-size: 10px;
 
 }
 
